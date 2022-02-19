@@ -1,6 +1,6 @@
 Full stack developer in MERN stack (MongoDB, Express, React, Node)
 
-Questions? Let's stay connected.
+Questions? Let's connect!
 
 Email: nancytranlewis@gmail.com
 
